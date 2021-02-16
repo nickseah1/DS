@@ -1,2 +1,2 @@
 # Data Science Portfolio
-Hello! This is a portfolio of my personal data science projects. Please feel free to email me at nickseah1@gmail.com if you have any questions, comments, or suggestions. Thanks and have a blessed day!
+Hello! This is a portfolio of my personal data science projects. Stay tuned for my Machine Learning project to predict Top 2021 NBA draft prospects! Thanks and have a blessed day!
